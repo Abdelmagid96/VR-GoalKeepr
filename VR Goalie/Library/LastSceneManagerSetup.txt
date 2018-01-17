@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/12-11-2017/Gameplay.unity
+  isLoaded: 1
+  isActive: 1

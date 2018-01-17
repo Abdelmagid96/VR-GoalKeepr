@@ -1,0 +1,62 @@
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\nunit.framework.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\UnityEditor.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\UnityEngine.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\UnityEngine.xml
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\UnityEditor.xml
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\nunit.framework.xml
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\obj\Debug\Assembly-CSharp.dll
+C:\Users\gamedev1\Documents\Unity Projects\DemoOculusTouchSiddig\VR Goalie\obj\Debug\Assembly-CSharp.pdb
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\Assembly-CSharp.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\nunit.framework.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\UnityEditor.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\UnityEngine.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\UnityEngine.UI.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\UnityEngine.VR.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\Mono.Cecil.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\Unity.DataContract.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\Unity.CecilTools.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\UnityEngine.xml
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\UnityEditor.xml
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\UnityEngine.UI.xml
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\nunit.framework.xml
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\12-12-2017\VR Goalie\Temp\bin\Debug\UnityEngine.VR.xml
+D:\12-12-2017\VR Goalie\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\12-12-2017\VR Goalie\obj\Debug\Assembly-CSharp.dll
+D:\12-12-2017\VR Goalie\obj\Debug\Assembly-CSharp.pdb
